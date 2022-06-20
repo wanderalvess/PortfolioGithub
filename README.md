@@ -1,6 +1,6 @@
-# Criando aplicativo para exibir meu portifolio do GitHub
+# Criando aplicativo para exibir meu portifólio do GitHub
 
-## Esse aplicativo tem por intuito exibir o um portifolio de repositorios de usuários do GitHub. 
+## Esse aplicativo tem por intuito exibir um portifólio de repositórios de usuários do GitHub. 
 
 - Esse aplicativo Android foi escrito na linguagem Kotlin, tem uma construção bem simples, para estudos e primeiras impressões com a criação de aplicativos nessa linguagem.
 
